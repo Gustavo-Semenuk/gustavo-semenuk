@@ -2,7 +2,8 @@
 
 - 🔭 Atualmente procurando trabalho ou estágio na área de Data Science ou Prevenção a Fraude
 - 🌱 Estudando Data Science na FIAP
-  
+
+ ##
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Rafa-React" height="30" width="40" 
@@ -18,7 +19,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> 
 </div>
 
- ##
+
 
 
 

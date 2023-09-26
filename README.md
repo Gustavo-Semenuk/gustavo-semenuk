@@ -1,6 +1,6 @@
 ### Oii! Eu sou Gustavo Semenuk 👋
 
-- 🔭 Atualmente procurando trabalho ou estágio na área de Data Science ou Prevenção a Fraude
+- 🔭 Atualmente trabalho como Analista de Prevenção a Fraude
 - 🌱 Estudando Data Science na FIAP
 
  ##

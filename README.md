@@ -1,7 +1,10 @@
 ### Oii! Eu sou Gustavo Semenuk 👋
 
-- 🔭 Atualmente trabalho como Analista de Prevenção a Fraude
-- 🌱 Estudando Data Science na FIAP
+- 🔭 Atualmente trabalho como Analista de Prevenção a Fraude no PicPay
+- 🌱 Estudo Data Science na FIAP
+- Sou entusiasta em Data Science & Artificial Intelligence
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
  ##
 <div style="display: inline_block"><br>

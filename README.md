@@ -5,6 +5,7 @@
 - Sou entusiasta em Data Science & Artificial Intelligence
 
 [![Gustavo Semenuk GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Semenuk)](https://github.com/gustavo-semenuk/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
  ##
 <div style="display: inline_block"><br>

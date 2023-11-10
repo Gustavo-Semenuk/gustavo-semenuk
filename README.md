@@ -4,7 +4,7 @@
 - 🌱 Estudo Data Science na FIAP
 - Sou entusiasta em Data Science & Artificial Intelligence
 
-[![Gustavo Semenuk GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/gustavo-semenuk/github-readme-stats)
+[![Gustavo Semenuk GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Semenuk)](https://github.com/gustavo-semenuk/github-readme-stats)
 
  ##
 <div style="display: inline_block"><br>

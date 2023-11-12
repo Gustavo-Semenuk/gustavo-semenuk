@@ -6,9 +6,8 @@
 - 📖 Veja o que eu estou lendo no momento ou tenha recomendações de livros no meu Skoob | See what I'm reading at the moment or get book recommendations on my Skoob = https://www.skoob.com.br/usuario/3805881-gustavosemenuk
 
  ##
- 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Semenuk&show_icons=true&theme=tokyonight&height=300)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Semenuk&layout=compact&theme=tokyonight&height=400)
+ ![Gustavo Semenuk GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-semenuk&show_icons=true&theme=tokyonight&height=500)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-semenuk&layout=donut&theme=tokyonight&height=400)](https://github.com/gustavo-semenuk/github-readme-stats)
 
  ##
  

@@ -1,6 +1,6 @@
 ### Olá! Me chamo Gustavo Semenuk | Hello! My name is Gustavo Semenuk 😎
 
-- 🧐 Atualmente trabalho como Analista de Prevenção a Fraude no PicPay | I currently work as a Fraud Prevention Analyst at PicPay
+- 🧐 Atualmente trabalho como Analista de Antifraude no PicPay | I currently work as a Fraud Prevention Analyst at PicPay
 - 💻 Estudo Data Science na FIAP | Study Data Science at FIAP
 - 🐱‍👤 Sou entusiasta em Ciência de Dados & Inteligência Artificial | I am passionate about Data Science and Artificial Intelligence
 - 📖 Veja o que eu estou lendo no momento ou tenha recomendações de livros no meu Skoob | See what I'm reading at the moment or get book recommendations on my Skoob = https://www.skoob.com.br/usuario/3805881-gustavosemenuk

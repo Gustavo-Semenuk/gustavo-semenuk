@@ -2,7 +2,7 @@
 
 - 🧐 Atualmente trabalho como Analista de Estratégia Antifraude no PicPay | I currently work as a Fraud Prevention Analyst at PicPay
 - 💻 Estudo Data Science na FIAP | Study Data Science at FIAP
-- 🐱‍👤 Sou entusiasta em Ciência de Dados & Inteligência Artificial | I am passionate about Data Science and Artificial Intelligence
+- 🐱‍👤 Sou entusiasta em Ciência de Dados & Machine Learning | I am passionate about Data Science and Machine Learning
 
  ##
  ![Gustavo Semenuk GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-semenuk&show_icons=true&theme=tokyonight&height=500)

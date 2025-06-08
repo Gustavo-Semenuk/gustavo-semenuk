@@ -40,7 +40,7 @@ SQL
 #### Engenharia de Dados:
    <img align="center" alt="Semenuk-NIFI" height="40" width="50" src="https://www.apache.org/logos/originals/nifi.svg"  />
    <img align="center" alt="Semenuk-Kafka" height="40" width="50" src="https://www.apache.org/logos/originals/kafka.svg"  />
-   <img align="center" alt="Semenuk-Kafka" height="40" width="50" src="https://images.seeklogo.com/logo-png/44/1/databricks-logo-png_seeklogo-440973.png"  />
+   <img align="center" alt="Semenuk-Databricks" height="40" width="50" src="https://images.seeklogo.com/logo-png/44/1/databricks-logo-png_seeklogo-440973.png"  />
    <img align="center" alt="Semenuk-Airflow" height="40" width="50" src="https://www.apache.org/logos/originals/airflow-1.svg"  />   
 
 #### DevOps:

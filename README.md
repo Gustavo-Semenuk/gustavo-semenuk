@@ -8,10 +8,6 @@
  ![Gustavo Semenuk GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-semenuk&show_icons=true&theme=tokyonight&height=500)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-semenuk&layout=donut&theme=tokyonight&height=400)](https://github.com/gustavo-semenuk/github-readme-stats)
 
- ## 
-
- ## 
- 
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Semenuk-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

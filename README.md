@@ -14,18 +14,54 @@
 
 ### Tecnologias utilizadas:
 
+#### Linguagens de programação:
   <img align="center" alt="Semenuk-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Semenuk-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Semenuk-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+SQL
+
+#### Banco de dados:
   <img align="center" alt="Semenuk-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Semenuk-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Semenuk-Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> 
-  <img align="center" alt="Semenuk-Neo4J" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
-  <img align="center" alt="Semenuk-Cassandra" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg"  />
-  <img align="center" alt="Semenuk-Hadoop" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg"  />
-  <img align="center" alt="Semenuk-Hive" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"  />
-  <img align="center" alt="Semenuk-Spark" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"  />
-  <img align="center" alt="Semenuk-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Semenuk-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-      
+
+#### SO:
+  <img align="center" alt="Semenuk-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  Windows
+
+ #### Cloud:
+   AWS
+
+#### Big Data:
+   <img align="center" alt="Semenuk-Hadoop" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg"  />
+   <img align="center" alt="Semenuk-Hive" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"  />
+   <img align="center" alt="Semenuk-Spark" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"  />
+   Pig
+   Sqoop
+   
+#### Engenharia de Dados:
+   Apache NIFI
+   Apache Flume
+   Apache Kafka
+   Databricks
+   Airflow
+
+#### DevOps:
+   <img align="center" alt="Semenuk-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img align="center" alt="Semenuk-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+   Docker
+
+#### Data Science:
+ ##### Frameworks Python:
+       * <img align="center" alt="Semenuk-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+       * Numpy
+       * Matplotlib
+       * Seaborn
+       * Streamlit
+
+#### Inteligência Artificial:
+   n8n
+   Llamma
+   
+#### Data Visualization:
+   Power BI
+   Tableau
+   
 </div>

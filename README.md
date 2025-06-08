@@ -10,6 +10,10 @@
 
 <div style="display: inline_block"><br>
 
+##
+
+### Tecnologias utilizadas:
+
   <img align="center" alt="Semenuk-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Semenuk-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="Semenuk-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />

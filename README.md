@@ -46,7 +46,7 @@ SQL
 #### DevOps:
    <img align="center" alt="Semenuk-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="center" alt="Semenuk-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img align="center" alt="Semenuk-Docker" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/915px-Docker_%28container_engine%29_logo.svg" />
+   <img align="center" alt="Semenuk-Docker" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
 
 #### Data Science:
  ##### Frameworks Python:

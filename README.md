@@ -9,10 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-semenuk&layout=donut&theme=tokyonight&height=400)](https://github.com/gustavo-semenuk/github-readme-stats)
 
  ## 
-  
-</div>
 
- ##
+ ## 
  
 <div style="display: inline_block"><br>
 

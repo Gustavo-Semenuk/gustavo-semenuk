@@ -34,15 +34,14 @@ SQL
    <img align="center" alt="Semenuk-Hadoop" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg"  />
    <img align="center" alt="Semenuk-Hive" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"  />
    <img align="center" alt="Semenuk-Spark" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"  />
-   Pig
+   <img align="center" alt="Semenuk-Pig" height="40" width="50" src="https://www.apache.org/logos/originals/pig.svg"  />
    <img align="center" alt="Semenuk-Sqoop" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Apache_Sqoop_logo.svg"  />
-  
+
 #### Engenharia de Dados:
-   Apache NIFI
-   Apache Flume
-   Apache Kafka
-   Databricks
-   Airflow
+   <img align="center" alt="Semenuk-NIFI" height="40" width="50" src="https://www.apache.org/logos/originals/nifi.svg"  />
+   <img align="center" alt="Semenuk-Kafka" height="40" width="50" src="https://www.apache.org/logos/originals/kafka.svg"  />
+   <img align="center" alt="Semenuk-Kafka" height="40" width="50" src="https://images.seeklogo.com/logo-png/44/1/databricks-logo-png_seeklogo-440973.png"  />
+   <img align="center" alt="Semenuk-Airflow" height="40" width="50" src="https://www.apache.org/logos/originals/airflow-1.svg"  />   
 
 #### DevOps:
    <img align="center" alt="Semenuk-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />

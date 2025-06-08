@@ -40,13 +40,13 @@ SQL
 #### Engenharia de Dados:
    <img align="center" alt="Semenuk-NIFI" height="40" width="50" src="https://www.apache.org/logos/originals/nifi.svg"  />
    <img align="center" alt="Semenuk-Kafka" height="40" width="50" src="https://www.apache.org/logos/originals/kafka.svg"  />
-   <img align="center" alt="Semenuk-Databricks" height="40" width="50" src="https://images.seeklogo.com/logo-png/44/1/databricks-logo-png_seeklogo-440973.png"  />
-   <img align="center" alt="Semenuk-Airflow" height="40" width="50" src="https://www.apache.org/logos/originals/airflow-1.svg"  />   
+   <img align="center" alt="Semenuk-Databricks" height="40" width="50" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"  />
+   <img align="center" alt="Semenuk-Airflow" height="40" width="50" src="https://www.apache.org/logos/originals/airflow-1.svg"  />  
 
 #### DevOps:
    <img align="center" alt="Semenuk-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="center" alt="Semenuk-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   Docker
+   <img align="center" alt="Semenuk-Docker" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/915px-Docker_%28container_engine%29_logo.svg" />
 
 #### Data Science:
  ##### Frameworks Python:

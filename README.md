@@ -16,19 +16,12 @@
 
 #### Linguagens de programação:
   <img align="center" alt="Semenuk-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-SQL
-
+  
 #### Banco de dados:
   <img align="center" alt="Semenuk-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Semenuk-Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> 
+  <img align="center" alt="Semenuk-SQLITE" height="40" width="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
 
-#### SO:
-  <img align="center" alt="Semenuk-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  Windows
-
- #### Cloud:
-   ##### AWS:
-      
 
 #### Big Data:
    <img align="center" alt="Semenuk-Hadoop" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg"  />
@@ -46,22 +39,13 @@ SQL
 #### DevOps:
    <img align="center" alt="Semenuk-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="center" alt="Semenuk-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img align="center" alt="Semenuk-Docker" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
+   <img align="center" alt="Semenuk-Docker" height="40" width="50" src="" />
 
 #### Data Science:
  ##### Frameworks Python:
-       * <img align="center" alt="Semenuk-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-       * Numpy
-       * Matplotlib
-       * Seaborn
-       * Streamlit
-
-#### Inteligência Artificial:
-   n8n
-   Llamma
+   <img align="center" alt="Semenuk-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+   <img align="center" alt="Semenuk-Numpy" height="40" width="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />
    
 #### Data Visualization:
-   Power BI
-   Tableau
-   
+   <img align="center" alt="Semenuk-PowerBI" height="40" width="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />
 </div>

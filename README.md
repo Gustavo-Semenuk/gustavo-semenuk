@@ -47,5 +47,6 @@
    <img align="center" alt="Semenuk-Numpy" height="40" width="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />
    
 #### Data Visualization:
-   <img align="center" alt="Semenuk-PowerBI" height="40" width="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />
+   <img align="center" alt="Semenuk-PowerBI" height="40" width="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" />
+   
 </div>

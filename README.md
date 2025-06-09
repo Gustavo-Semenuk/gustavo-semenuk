@@ -39,7 +39,7 @@
 #### DevOps:
    <img align="center" alt="Semenuk-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="center" alt="Semenuk-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img align="center" alt="Semenuk-Docker" height="40" width="50" src="" />
+   <img align="center" alt="Semenuk-Docker" height="40" width="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
 
 #### Data Science:
  ##### Frameworks Python:
